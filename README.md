@@ -1,7 +1,8 @@
 # Sales-Savvy
 Sales Savvy is a full-stack web application developed to manage and streamline sales operations efficiently. The project helps businesses track products, customers, orders, and sales activities through a modern and user-friendly interface.
 
-Tech Stack
+# Tech Stack
+
 Frontend: React.js, HTML, CSS, JavaScript
 Backend: Spring Boot (Java)
 Database: MySQL
